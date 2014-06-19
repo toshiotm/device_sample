@@ -1,1 +1,1 @@
-deviceを触ってみる
+deviseを触ってみる
